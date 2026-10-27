@@ -1,0 +1,17 @@
+<!-- A newspaper page: photo block, headline bars and two lines of text, cut out with evenOdd so the
+     same drawable also works as the monochrome (themed) icon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M35,32H73A5,5 0,0 1,78 37V71A5,5 0,0 1,73 76H35A5,5 0,0 1,30 71V37A5,5 0,0 1,35 32Z
+            M37,39H53V53H37Z
+            M57,39H71V43H57Z
+            M57,46H71V50H57Z
+            M37,57H71V61H37Z
+            M37,65H63V69H37Z" />
+</vector>

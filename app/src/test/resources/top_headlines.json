@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "example-news", "name": "Example News" },
+      "author": "Jane Cooper",
+      "title": "City council approves new bike lanes - Example News",
+      "description": "The plan adds 40 km of protected lanes over the next two years.",
+      "url": "https://example.com/news/bike-lanes",
+      "urlToImage": "https://example.com/images/bike-lanes.jpg",
+      "publishedAt": "2026-10-26T07:05:58Z",
+      "content": "The city council voted 7-2 on Monday to approve the plan… [+2306 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Daily Planet" },
+      "author": "https://www.facebook.com/DailyPlanet",
+      "title": "Local team wins the championship - Daily Planet",
+      "description": null,
+      "url": "https://example.com/news/championship",
+      "urlToImage": null,
+      "publishedAt": "2026-10-26T06:00:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    }
+  ]
+}

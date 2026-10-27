@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Headlines</string>
+
+    <string name="top_headlines">Top headlines</string>
+    <string name="search_hint">Search headlines</string>
+    <string name="clear_search">Clear search</string>
+    <string name="open_article">open article</string>
+    <string name="loading_articles">Loading articles</string>
+    <string name="offline_banner">You\'re offline. Showing saved articles.</string>
+    <string name="search_cached_notice">Couldn\'t search online, so these are matches from your saved articles.</string>
+    <string name="no_headlines_title">No headlines right now</string>
+    <string name="no_headlines_message">Pull down to check again.</string>
+    <string name="no_results_title">No results for “%1$s”</string>
+    <string name="no_results_message">Try a different keyword.</string>
+    <string name="action_retry">Retry</string>
+
+    <string name="error_no_connection_title">No internet connection</string>
+    <string name="error_no_connection_message">Check your connection and try again.</string>
+    <string name="error_timeout_title">The request timed out</string>
+    <string name="error_timeout_message">The news service took too long to respond. Please try again.</string>
+    <string name="error_unauthorized_title">Access denied</string>
+    <string name="error_unauthorized_message">The news service didn\'t accept the API key.</string>
+    <string name="error_rate_limited_title">Too many requests</string>
+    <string name="error_rate_limited_message">The news API request limit has been reached. Please try again later.</string>
+    <string name="error_server_title">News service unavailable</string>
+    <string name="error_server_message">The news service is having problems right now. Please try again later.</string>
+    <string name="error_unknown_title">Something went wrong</string>
+    <string name="error_unknown_message">We couldn\'t load the news. Please try again.</string>
+
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="byline">By %1$s</string>
+    <string name="unknown_author">Unknown author</string>
+    <string name="no_description">No summary available for this story.</string>
+    <string name="read_full_article">Read full article</string>
+    <string name="no_browser">No app found to open this link.</string>
+    <string name="article_not_found_title">Article not available</string>
+    <string name="article_not_found_message">It\'s no longer in your saved articles. Go back and refresh to load it again.</string>
+</resources>

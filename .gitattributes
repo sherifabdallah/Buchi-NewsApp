@@ -1,0 +1,8 @@
+* text=auto
+
+# gradlew has to keep LF endings or it won't run on Linux (CI) and macOS.
+gradlew text eol=lf
+*.bat text eol=crlf
+
+*.jar binary
+*.png binary
